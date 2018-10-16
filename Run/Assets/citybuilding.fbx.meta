@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: aaccf9336f62a8e4aba297de631f59d0
+timeCreated: 1524776744
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Cube.048
+    100006: Cube.049
+    100008: Cube.050
+    100010: Cube.051
+    100012: Cube.052
+    100014: Cube.053
+    100016: Cube.054
+    100018: Cylinder.060
+    100020: Cylinder.061
+    100022: Cylinder.062
+    100024: Cylinder.063
+    100026: Cylinder.064
+    100028: Cylinder.065
+    100030: Cylinder.066
+    100032: FX
+    100034: Lamp
+    100036: Lamp.001
+    100038: Plane.050
+    100040: Plane.051
+    100042: Plane.052
+    100044: Plane.053
+    100046: Plane.054
+    100048: Plane.055
+    100050: Plane.056
+    100052: Plane.057
+    400000: Camera
+    400002: //RootNode
+    400004: Cube.048
+    400006: Cube.049
+    400008: Cube.050
+    400010: Cube.051
+    400012: Cube.052
+    400014: Cube.053
+    400016: Cube.054
+    400018: Cylinder.060
+    400020: Cylinder.061
+    400022: Cylinder.062
+    400024: Cylinder.063
+    400026: Cylinder.064
+    400028: Cylinder.065
+    400030: Cylinder.066
+    400032: FX
+    400034: Lamp
+    400036: Lamp.001
+    400038: Plane.050
+    400040: Plane.051
+    400042: Plane.052
+    400044: Plane.053
+    400046: Plane.054
+    400048: Plane.055
+    400050: Plane.056
+    400052: Plane.057
+    2000000: Camera
+    2100000: Material.015
+    2100002: Material.015__HighRiseResidenti
+    2100004: Material.010__HighRiseResidential01
+    2100006: Material.011__1383-v3.jpg
+    2100008: Material.004__HighRiseResidential01
+    2100010: No Name
+    2100012: Material.016__HighRiseResidential00
+    2100014: Material.017__HighRiseResidential00
+    2100016: Material.005
+    2300000: Cube.048
+    2300002: Cube.049
+    2300004: Cube.050
+    2300006: Cube.051
+    2300008: Cube.052
+    2300010: Cube.053
+    2300012: Cube.054
+    2300014: Cylinder.060
+    2300016: Cylinder.061
+    2300018: Cylinder.062
+    2300020: Cylinder.063
+    2300022: Cylinder.064
+    2300024: Cylinder.065
+    2300026: Cylinder.066
+    2300028: Plane.050
+    2300030: Plane.051
+    2300032: Plane.052
+    2300034: Plane.053
+    2300036: Plane.054
+    2300038: Plane.055
+    2300040: Plane.056
+    2300042: Plane.057
+    3300000: Cube.048
+    3300002: Cube.049
+    3300004: Cube.050
+    3300006: Cube.051
+    3300008: Cube.052
+    3300010: Cube.053
+    3300012: Cube.054
+    3300014: Cylinder.060
+    3300016: Cylinder.061
+    3300018: Cylinder.062
+    3300020: Cylinder.063
+    3300022: Cylinder.064
+    3300024: Cylinder.065
+    3300026: Cylinder.066
+    3300028: Plane.050
+    3300030: Plane.051
+    3300032: Plane.052
+    3300034: Plane.053
+    3300036: Plane.054
+    3300038: Plane.055
+    3300040: Plane.056
+    3300042: Plane.057
+    4300000: Cube.048
+    4300002: Cube.049
+    4300004: Cube.050
+    4300006: Cube.051
+    4300008: Cube.052
+    4300010: Cube.053
+    4300012: Cube.054
+    4300014: Cylinder.060
+    4300016: Cylinder.061
+    4300018: Cylinder.062
+    4300020: Cylinder.063
+    4300022: Cylinder.064
+    4300024: Cylinder.065
+    4300026: Cylinder.066
+    4300028: Plane.050
+    4300030: Plane.051
+    4300032: Plane.052
+    4300034: Plane.053
+    4300036: Plane.054
+    4300038: Plane.055
+    4300040: Plane.056
+    4300042: Plane.057
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Lamp.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004__HighRiseResidential01
+    second: {fileID: 2100000, guid: 9b8cb22efc5353840b688568b427446d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 7faa7bf4c2393a64db9cb1cf04640992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010__HighRiseResidential01
+    second: {fileID: 2100000, guid: 9b8cb22efc5353840b688568b427446d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011__1383-v3.jpg
+    second: {fileID: 2100000, guid: c17fc5c7b9201364ebcf8f65f750c908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 216346cb14288a540bac7c9d406c00dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015__HighRiseResidenti
+    second: {fileID: 2100000, guid: 1321bbd8d6541b843858523bfe375cab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016__HighRiseResidential00
+    second: {fileID: 2100000, guid: 7485abdb7ebc4d546b52639015ceb8ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017__HighRiseResidential00
+    second: {fileID: 2100000, guid: 7485abdb7ebc4d546b52639015ceb8ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e5d8ed0f065ecd24dadbf28593d370ea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
